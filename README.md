@@ -1,1 +1,1 @@
-# Math140
+# Math 140 - Data structures and algorithms
